@@ -18,7 +18,7 @@ As you can see we have 3 important *attributes* to include within this self clos
 
 The second attribute `rel` tells the browser what the relationship is between the HTML and the linked document. In this case, the CSS document is a `stylesheet`.<br>
 
-Finally, we have the `href` which tells the browser where to find our CSS file in our computer directory.<br> 
+Finally, we have `href` which tells the browser where to find our CSS file in our computer directory.<br> 
 
 If everything is linked correctly, your styles will show on the page when you refresh it.<br> 
 
